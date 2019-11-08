@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526230504581",
+    "firebase_url": "https://abri-376b4.firebaseio.com",
+    "project_id": "abri-376b4",
+    "storage_bucket": "abri-376b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526230504581:android:e496e71721e101bac155ec",
+        "android_client_info": {
+          "package_name": "com.example.abri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526230504581-vjoht18ba75d97ld708r4iqsqohvn7q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abri",
+            "certificate_hash": "d01adc9d3dd0ecc6548791a7ab7bbbc57217c898"
+          }
+        },
+        {
+          "client_id": "526230504581-57iglq6up4av8ig48p5c34ukjeordtb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWjuzreblpD7x2TMsRwzecZD62Jt1kcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526230504581-57iglq6up4av8ig48p5c34ukjeordtb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
